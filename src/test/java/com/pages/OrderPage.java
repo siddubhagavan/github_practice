@@ -8,7 +8,7 @@ public class OrderPage {
 		System.out.println("Hello this is from OrderPage");
 		System.out.println("Hello Welcome to the OrderPage");
 		
-		String name = "OrderPage";
+		String name1 = "OrderPage";
 
 	}
 
