@@ -1,11 +1,11 @@
 package com.pages;
 
-public class HomePage {
+public class OrderPage {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("This is from HomePage");
+		System.out.println("Hello this is from OrderPage");
 
 	}
 
