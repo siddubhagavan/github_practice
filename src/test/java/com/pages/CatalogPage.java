@@ -6,6 +6,7 @@ public class CatalogPage {
 		// TODO Auto-generated method stub
 
 		System.out.println("This is from Catalog Page");
+		System.out.println("Thanks for visiting Catalog Page");
 	}
 
 }
