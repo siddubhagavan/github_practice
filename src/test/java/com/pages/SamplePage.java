@@ -6,6 +6,8 @@ public class SamplePage {
 		// TODO Auto-generated method stub
 
 		System.out.println("This is from sample page");
+		String str = "SamplePage";
+		int b = 25;
 	}
 
 }
