@@ -8,6 +8,8 @@ public class SamplePage {
 		System.out.println("This is from sample page");
 		String str = "SamplePage";
 		int b = 25;
+		String city = "Hyderabad";
+		String cuntry = "India";
 	}
 
 }
