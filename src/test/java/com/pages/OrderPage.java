@@ -6,6 +6,7 @@ public class OrderPage {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello this is from OrderPage");
+		System.out.println("Hello Welcome to the OrderPage");
 
 	}
 
