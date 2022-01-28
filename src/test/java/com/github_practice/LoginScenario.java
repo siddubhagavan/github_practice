@@ -7,6 +7,7 @@ public class LoginScenario {
 
 		System.out.println("This is from Login Scenario Page");
 		System.out.println("Please login with the valid credentials");
+		System.out.println("Welcome to login page scenario");
 	}
 
 }
